@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "f9bdae38423f",
+            "server": "http://f9bdae38423f",
+            "serverInstance": "nav",
+            "authentication": "Windows",
+            "startupObjectId": 22
+        }
+    ]
+}
